@@ -1,0 +1,27 @@
+{
+  "showTitle": true,
+  "showBasemap": false,
+  "showLegend": true,
+  "expandAllLayersByDefault": false,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "SetVisibilityRange": true,
+    "EnableOrDisablePopup": true,
+    "ControlLabels": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "Delivery_Options_2989": {
+      "display": true
+    },
+    "TypeOfCuisine_1483": {
+      "display": true
+    },
+    "csv_8491_0": {
+      "display": true
+    }
+  }
+}

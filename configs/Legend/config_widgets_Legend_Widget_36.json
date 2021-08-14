@@ -1,0 +1,20 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "Delivery_Options_2989": {
+      "selected": true
+    },
+    "TypeOfCuisine_1483": {
+      "selected": true
+    },
+    "csv_8491_0": {
+      "selected": true
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": true
+}
